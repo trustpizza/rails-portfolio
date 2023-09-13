@@ -12,6 +12,9 @@ module.exports = {
       fontFamily: {
         sans: ['Inter var', ...defaultTheme.fontFamily.sans],
       },
+      backgroundImage: {
+        "mountains-vt" : "url(assets/mountains2.jpg)"
+      }
     },
   },
   plugins: [
